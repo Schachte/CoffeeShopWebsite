@@ -1,2 +1,2 @@
-# CoffeeShopWebsite
-Website For Rating Coffee Shops &amp; Cafes
+# Coffee Shop Website
+Website For Rating Coffee Shops &amp; Cafés
